@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf6d99f7ac02d0a6e1a1d17cda9976b96484e98d7",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xf6d99f7ac02d0a6e1a1d17cda9976b96484e98d7",
+  "NETWORK": {
+    "NAME": "Rinkeby Test Network",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Oh My Spirit",
+  "SYMBOL": "OMS",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 80000000000000000,
+  "DISPLAY_COST": 0.08,
+  "GAS_LIMIT": 750000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/ohmyspirit",
+  "SHOW_BACKGROUND": true
+}
